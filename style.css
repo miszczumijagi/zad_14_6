@@ -1,0 +1,16 @@
+body {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: linear-gradient(#89f442, yellow);
+	min-height: 100vh;
+}
+
+.counter {
+	margin: 25px;
+}
+
+.btn-success {
+	width: 20vw;
+}
+
